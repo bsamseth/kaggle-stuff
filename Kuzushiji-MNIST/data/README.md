@@ -8,6 +8,5 @@ It assumed that you are running in an environment where the `kaggle` script is a
 
 ``` bash
 > kaggle datasets download anokas/kuzushiji
-> unzip 
 > unzip kuzushiji.zip  # Run from this `data` folder
 ```
