@@ -15,6 +15,9 @@ matplotlib = "*"
 umap-learn = "*"
 seaborn = "*"
 tensorflow = {file = "https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl"}
+sympy = "*"
+concorde = {editable = true,git = "https://github.com/jvkersch/pyconcorde.git"}
+cython = "*"
 
 [requires]
 python_version = "3.7"
