@@ -9,5 +9,5 @@ It assumed that you are running in an environment where the `kaggle` script is a
 ``` bash
 > cd PetFinder/data
 > kaggle competitions download -c petfinder-adoption-prediction
-> unzip *.zip  # Run from this `data` folder
+> unzip {filename}.zip {filename}  # Run this for every .zip file.
 ```
